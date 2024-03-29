@@ -1,5 +1,3 @@
-<img alight="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdullahmiraz.abdullahmiraz" />
-
 - 👋 Hi, I’m Abdullah Miraz
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning NextJs
