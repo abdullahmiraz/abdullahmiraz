@@ -1,4 +1,4 @@
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=abdullahmirazd.abdullahmiraz](https://visitor-badge.laobi.icu/badge?page_id=abdullahmiraz.abdullahmiraz)" />   
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahmiraz.abdullahmiraz)
 
 - 👋 Hi, I’m Abdullah Miraz
 - 👀 I’m interested in Web Technology
