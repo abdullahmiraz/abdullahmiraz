@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdullah Miraz
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently buildig full stack apps
+- 🎩 Speciality: NextJs, MERN Stack
 - 💞️ I’m looking to collaborate on Web Based Projects
 - 📫 Connect me through [LinkedIn](https://www.linkedin.com/in/abdullahmiraz/)
 
