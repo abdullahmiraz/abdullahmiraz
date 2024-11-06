@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=abdullahmiraz&color=green)
 - 👋 Hi, I’m Abdullah Miraz
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently building full stack apps
