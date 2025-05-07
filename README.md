@@ -3,7 +3,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahmiraz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahmiraz&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=abdullahmiraz&locale=fr&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -119,9 +119,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdullahmiraz/abdullahmiraz/output/pacman-contribution-graph.svg">
 </picture>
 
-<br clear="both">
+###
 
+<div align="left">
 <img src="https://raw.githubusercontent.com/abdullahmiraz/abdullahmiraz/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
  
