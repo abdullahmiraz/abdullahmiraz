@@ -1,13 +1,14 @@
 <h1 align="left">Hi, I'm Miraz. From BD, Asia. Software Enginner</h1>
 
+
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahmiraz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahmiraz&" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=abdullahmiraz&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahmiraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=abdullahmiraz&" height="150" alt="trophy graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahmiraz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahmiraz&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=abdullahmiraz&locale=fr&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahmiraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=abdullahmiraz&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
