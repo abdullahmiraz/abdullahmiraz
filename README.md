@@ -59,41 +59,52 @@ I'm a software engineer at the intersection of modern web engineering and AI. I 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Code Snippets Manager</h3>
+      <h3 align="center">RxPro</h3>
       <p align="center">
-        AI-powered snippet manager with code generation, Pinecone vector search, and full CRUD.
+        Prescription management system for clinics — patients, appointments, and 12-section prescriptions with a print-ready layout.
         <br><br>
-        <a href="https://code-snippets-plum.vercel.app">Live →</a> &nbsp;
-        <a href="https://github.com/abdullahmiraz/code-snippets">Code →</a>
+        <a href="https://rxpro.vercel.app">Live →</a> &nbsp;
+        <a href="https://github.com/abdullahmiraz/RxPro">Code →</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">MindStore AI</h3>
+      <h3 align="center">Medibuy</h3>
       <p align="center">
-        AI knowledge base chat with RAG, voice input, and file upload for documents.
+        Full-stack e-commerce platform for medicines in Bangladesh — catalog, checkout, accounts, admin, and AI features.
         <br><br>
-        <a href="https://ai-knowledge-chat.vercel.app">Live →</a> &nbsp;
-        <a href="https://github.com/abdullahmiraz/ai-knowledge-chat">Code →</a>
+        <a href="https://medibuy.vercel.app">Live →</a> &nbsp;
+        <a href="https://github.com/abdullahmiraz/online-medicine-shop">Code →</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Pulse Analytics</h3>
+      <h3 align="center">MindStore AI</h3>
       <p align="center">
-        Interactive analytics dashboard with real-time KPI tracking and data visualization.
+        RAG knowledge base — chat with your PDFs/docs using local vector embeddings.
         <br><br>
-        <a href="https://analytics-dashboard-mu-bice.vercel.app">Live →</a> &nbsp;
-        <a href="https://github.com/abdullahmiraz/analytics-dashboard">Code →</a>
+        <a href="https://mindstoreai.vercel.app">Live →</a> &nbsp;
+        <a href="https://github.com/abdullahmiraz/ai-knowledge-chat">Code →</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">miraz.dev</h3>
+      <h3 align="center">Pulse Analytics</h3>
       <p align="center">
-        Portfolio site built with Next.js, Tailwind, Notion API, and Framer Motion.
+        Real-time SaaS analytics dashboard — 5 chart types, live polling, CSV export, date filtering.
         <br><br>
-        <a href="https://miraz.dev">Live →</a> &nbsp;
-        <a href="https://github.com/abdullahmiraz/miraz.dev">Code →</a>
+        <a href="https://pulsean.vercel.app">Live →</a> &nbsp;
+        <a href="https://github.com/abdullahmiraz/pulse-analytics">Code →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">Code Snippets Manager</h3>
+      <p align="center">
+        AI-powered code snippet manager — create, highlight, share, and generate snippets from plain-text descriptions.
+        <br><br>
+        <a href="https://mysnip.vercel.app">Live →</a> &nbsp;
+        <a href="https://github.com/abdullahmiraz/code-snippets">Code →</a>
       </p>
     </td>
   </tr>
