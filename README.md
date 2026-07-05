@@ -112,12 +112,6 @@ I'm a software engineer at the intersection of modern web engineering and AI. I 
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahmiraz&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=percentile&amp;theme=transparent" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahmiraz&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" height="160" alt="Top Languages" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahmiraz/abdullahmiraz/output/snake.svg" />
   <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/abdullahmiraz/abdullahmiraz/output/snake.svg" />
