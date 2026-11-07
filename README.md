@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&amp;weight=700&amp;size=28&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=70&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Miraz;Software+Engineer;AI-native+Products+%C2%B7+TypeScript+%C2%B7+Next.js;LLM+Integration+%C2%B7+Cloud+Deployment" alt="Typing SVG" />
-</p>
+<h2 align="center">Abdullah Miraz</h2>
 
 <p align="center">
   Software engineer — products, AI automation &amp; full-stack systems.<br>
@@ -15,13 +13,20 @@
 
 ## About
 
-I'm a software engineer at the intersection of modern web engineering and AI. I build products with LLM-powered features, automation pipelines, and interfaces that people enjoy using. I work across the stack — TypeScript, React, Next.js, API design, databases, and cloud deployment.
+I focus on understanding the problem before writing code, then build simple, reliable systems that make everyday work faster and easier. I have built software for healthcare, agencies and small businesses, working closely with users and improving in small steps based on their feedback. I use AI coding agents daily and verify their work through tests, CI and careful review. Comfortable working remotely across time zones, and open to relocation.
 
-## Current Focus
+**Experience:** KumoDevs (Software Engineer, 2025–2026) · ATI Limited (healthcare IT / EMR, 2024) · Code Elevate Tech (intern, 2024) · Freelance (2021–2023). Full details: [miraz.dev/about](https://miraz.dev/about) · [Resume](https://miraz.dev/resume)
 
-- Building AI-native web products and SaaS platforms
-- LLM integration, automation pipelines, and tooling
-- Open source contributions and technical writing
+## Products I build & run
+
+| Product | What it is | Status |
+|---|---|---|
+| [Live Class Subtitles](https://chromewebstore.google.com/detail/bcjlobnpciccoaaifhidhodbialpeoml) | Real-time speech translation for Chrome | Live on the Chrome Web Store · 38 languages |
+| [MyGearHut](https://mygearhut.com) | Tech media brand I founded and run | 640+ videos across five channels |
+| [Autopost Hub](https://mygearhut.com/articles) | AI news desk on autopilot | Daily to the blog, Facebook, Instagram & Telegram |
+| [White Night Tales](https://www.youtube.com/@whitexnight/videos) | Illustrated storytelling channel, produced in-house | 290+ videos · 3 a day |
+| [OpenCode Kingdom](https://github.com/abdullahmiraz/opencode-kingdom) | Multi-agent development harness | Open source |
+| STANKIN Companion | Never miss a university deadline | 996 items from 23 courses, synced every 15 min |
 
 ## Tech Stack
 
@@ -50,12 +55,12 @@ I'm a software engineer at the intersection of modern web engineering and AI. I 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
   <br><br>
-  <sub><b>LLM APIs</b> · Supabase · Notion API · Automation · Stripe · Docker · AWS</sub>
+  <sub><b>AI &amp; LLM:</b> LLM integration · RAG · embeddings · tool calling · agent workflows · MCP</sub>
   <br>
-  <sub><b>Tooling:</b> VS Code · Postman · Figma · Prisma · Vercel · Netlify</sub>
+  <sub><b>Infra:</b> Cloudflare Workers · Vercel · Docker · Nginx · GitHub Actions · n8n</sub>
 </p>
 
-## Featured Projects
+## Other projects
 
 <table>
   <tr>
@@ -127,12 +132,9 @@ I'm a software engineer at the intersection of modern web engineering and AI. I 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://miraz.dev">
-    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-16a34a?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://codeforces.com/profile/matrix_">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="mailto:mirazxdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  <a href="https://x.com/MirazXDev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
   </a>
 </p>
