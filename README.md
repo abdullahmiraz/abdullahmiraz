@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  Building AI-native web software from Dhaka, Bangladesh.
+  Software engineer — products, AI automation &amp; full-stack systems.<br>
+  From Dhaka, Bangladesh · currently in Moscow.
   <br>
   <a href="https://miraz.dev">miraz.dev</a> &nbsp;·&nbsp;
   <a href="https://miraz.dev/projects">Projects</a> &nbsp;·&nbsp;
