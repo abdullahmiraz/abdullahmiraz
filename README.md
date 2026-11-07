@@ -4,7 +4,7 @@
 
 <p align="center">
   Software engineer — products, AI automation &amp; full-stack systems.<br>
-  From Dhaka, Bangladesh · currently in Moscow.
+  From Dhaka, Bangladesh · Currently in Moscow.
   <br>
   <a href="https://miraz.dev">miraz.dev</a> &nbsp;·&nbsp;
   <a href="https://miraz.dev/projects">Projects</a> &nbsp;·&nbsp;
